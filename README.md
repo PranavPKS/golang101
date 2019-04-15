@@ -5,6 +5,9 @@ Go (often referred to as Golang) is a statically typed, compiled programming lan
 
 Here is an hands-on introduction to Go using example programs.
 Run them here: https://play.golang.org/
+Run instruction: run program.go
+
+Team: Pranav Kumar Sivakumar, Sowmya Ramakrishnan
 
 ##### hello world.go
 
